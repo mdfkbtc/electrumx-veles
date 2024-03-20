@@ -48,7 +48,7 @@ setuptools.setup(
     author='Electrum developers',
     author_email='electrumdev@gmail.com',
     license='MIT Licence',
-    url='https://github.com/spesmilo/electrumx',
+    url='https://github.com/mdfkbtc/electrumx-veles',
     long_description='Server implementation for the Electrum protocol',
     download_url=('https://github.com/spesmilo/electrumX/archive/'
                   f'{version}.tar.gz'),

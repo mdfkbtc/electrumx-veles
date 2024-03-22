@@ -50,7 +50,7 @@ setuptools.setup(
     license='MIT Licence',
     url='https://github.com/mdfkbtc/electrumx-veles',
     long_description='Server implementation for the Electrum protocol',
-    download_url=('https://github.com/spesmilo/electrumX/archive/'
+    download_url=('https://github.com/mdfkbtc/electrumX/archive/'
                   f'{version}.tar.gz'),
     classifiers=[
         'Development Status :: 5 - Production/Stable',
